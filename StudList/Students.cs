@@ -14,7 +14,7 @@ namespace StudList
 
 		public int ID { get; set; }
 		int x = 0;
-		int newbranch = 1;
+		int newbranch = 9;
 
 
 		public int CompareTo(Students s)
