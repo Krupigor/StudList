@@ -13,7 +13,7 @@ namespace StudList
 		public int Group { get; set; }
 
 		public int ID { get; set; }
-		int y = 0;
+		int x = 0;
 
 
 		public int CompareTo(Students s)
